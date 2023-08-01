@@ -1,0 +1,39 @@
+.profile-img{
+    padding: 2px;
+    border-radius: 50%;
+    background-color: black;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+h5, h6{
+    color: whitesmoke;
+}
+h1{
+    color: rgb(0, 74, 165);
+    font-family: 'Times New Roman', Times, serif;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.2);
+    background-size: 50%, 50%;
+    border-radius: 40%;
+}
+footer{
+    text-align: center;
+}
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(158, 186, 0);
+}
+body {
+    background-image:url(./assets/images/Img5.png)
+  }
+p{
+    color: whitesmoke;
+}
+.card-text{
+    color: black;
+}
