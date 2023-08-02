@@ -5,13 +5,13 @@
 }
 h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: whitesmoke;
+    color: black;
 }
 h5, h6{
     color: whitesmoke;
 }
 h1{
-    color: rgb(0, 74, 165);
+    color: rgb(0, 74, 163);
     font-family: 'Times New Roman', Times, serif;
 }
 .carousel-control-prev-icon, .carousel-control-next-icon {
@@ -26,10 +26,10 @@ footer{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
     font-weight: bolder;
-    color: rgb(158, 186, 0);
+    color: rgb(0, 0, 0);
 }
 body {
-    background-image:url(./assets/images/Img5.png)
+    background-image:url(./assets/images/Img7.png)
   }
 p{
     color: whitesmoke;
